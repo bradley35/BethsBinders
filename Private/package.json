@@ -1,0 +1,15 @@
+{
+  "name": "beth's-binders",
+  "version": "1.0.0",
+  "description": "Backend and Payment processing for Beth's Binders.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Bradley",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
